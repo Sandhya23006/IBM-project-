@@ -7,7 +7,7 @@ Project Description- Edutor AI is an advanced AI-powered education platform desi
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb4bdbf6-e81b-40e9-974a-027a0b170122" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/112f8894-f7cd-461a-b2c8-be762dec649d" />
 
-drive link:
+demo  link:
 https://drive.google.com/file/d/1-AOVKX9AztCyXofCJ0jiuCGPV5kvuQXl/view?usp=drive_link)
 
 collab link:
